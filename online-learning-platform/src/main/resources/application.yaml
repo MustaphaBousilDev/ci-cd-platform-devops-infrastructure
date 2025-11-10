@@ -1,0 +1,6 @@
+spring:
+  application:
+    name: online-learning-platform
+  data:
+    mongodb:
+      uri: mongodb://localhost:27018/online-learning-platform
